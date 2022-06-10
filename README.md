@@ -42,7 +42,9 @@
 
 ### Other tecnologies
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 
 ### Graphic Design
@@ -62,143 +64,14 @@
 </a>
 </p>
 
-<!--
-Badge42
-🚀 Dynamically generated 42 badge for your git readmes.
+## 🤝🏻 &nbsp;Connect with Me
 
-💡 42 Stats Card!
-Copy-paste this into your markdown content, and that&aposs it. Simple!
-
-irodrigo's 42Madrid Stats
-irodrigo's 42Madrid Stats
-42cursus
-42cursus
-Grade
--
-Learner
-Grade
--
-Learner
-Name
--
-Isaac Rodrigo Sopedra
-Name
--
-Isaac Rodrigo Sopedra
-Email
--
-irodrigo@student.42madrid.com
-Email
--
-irodrigo@student.42madrid.com
-BlackHole absorption
-BlackHole absorption
-17 days left!
-17 days left!
-level 4 - 47%
-level 4 - 47%
-Cursus
+<p align="center">
+<a href="https://www.linkedin.com/in/irodrigosopedra/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 
-42cursus
-Coalition
 
 
-Metropolis
-Options
-*url
 
-https://badge42.vercel.app/api/v2/cl48730io004009k38izuftsc/stats?cursusId=21&coalitionId=64
-*markdown
 
-[![irodrigo's 42 stats](https://badge42.vercel.app/api/v2/cl48730io004009k38izuftsc/stats?cursusId=21&coalitionId=64)](https://github.com/JaeSeoKim/badge42)
-*html
-
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl48730io004009k38izuftsc/stats?cursusId=21&coalitionId=64" alt="irodrigo's 42 stats" /></a>
-✅ 42 ProjectScore Badge!
-Copy-paste this into your markdown content, and that&aposs it. Simple!
-
-minishell
-Fail
-0
-/100
-*url
-
-https://badge42.vercel.app/api/v2/cl48730io004009k38izuftsc/project/2612876
-*markdown
-
-[![irodrigo's 42 minishell Score](https://badge42.vercel.app/api/v2/cl48730io004009k38izuftsc/project/2612876)](https://github.com/JaeSeoKim/badge42)
-*html
-
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl48730io004009k38izuftsc/project/2612876" alt="irodrigo's 42 minishell Score" /></a>
-Exam Rank 03
-Success
-100
-/100
-*url
-
-https://badge42.vercel.app/api/v2/cl48730io004009k38izuftsc/project/2177544
-*markdown
-
-[![irodrigo's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl48730io004009k38izuftsc/project/2177544)](https://github.com/JaeSeoKim/badge42)
-*html
-
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl48730io004009k38izuftsc/project/2177544" alt="irodrigo's 42 Exam Rank 03 Score" /></a>
-Philosophers
-Success
-108
-/100
-Inception
-Subscribed
-push_swap
-Success
-100
-/100
-Born2beroot
-Success
-100
-/100
-pipex
-Success
-100
-/100
-libasm
-Success
-100
-/100
-fract-ol
-Success
-120
-/100
-ft_services
-Subscribed
-Exam Rank 02
-Success
-100
-/100
-cub3d
-Success
-103
-/100
-ft_server
-Success
-100
-/100
-ft_printf
-Success
-106
-/100
-netwhat
-Success
-100
-/100
-get_next_line
-Success
-115
-/100
-Libft
-Success
-115
-/100
-
--->
