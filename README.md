@@ -7,7 +7,7 @@
 🌱 &nbsp;Currently, I am studying computer science in 42 Madrid and working as a teacher of different languages and design technologies.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Night photograpy.\
 ✉️ &nbsp;You can shoot me an email at irodrigosopedra@gmail.com! I'll try to respond as soon as I can.\
-💡 &nbsp;I like to explore new technologies and develop software solutions.\
+💡 &nbsp;I like to explore new technologies and develop efficient software solutions.\
 💬 &nbsp;I'm on track for learning more about Artificial Intelligence, Cybersec and Graphic Design.\
 
 ## 🛠 &nbsp;Tech Stack
