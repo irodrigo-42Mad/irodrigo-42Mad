@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🌱 &nbsp;
+🌱 &nbsp;Currently, I am studying computer science and working as a teacher in different technologies.\
 
 ## 🛠 &nbsp;Tech Stack
 
