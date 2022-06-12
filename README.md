@@ -1,4 +1,4 @@
-
+![Isaac Rodrigo](https://github.com/irodrigo-42Mad/irodrigo-42Mad/blob/0c93fe64bd4684808e25df23efcfdd0d3e7e1ec9/assets/Isaac%20Rodrigo%20Sopedra%20Banner.jpg)
 
 ## 👋 &nbsp;Hey there! I'm Irodrigo-42Mad 
 
