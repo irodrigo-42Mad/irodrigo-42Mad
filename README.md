@@ -12,9 +12,10 @@
 
 ## 🛠 &nbsp;Tech Stack
 
+<img alt="Night Coding" src="https://github.com/irodrigo-42Mad/irodrigo-42Mad/blob/62cee74cd5ba293135ddaa518e9914896515eb2b/assets/Night-Coding.gif" align="right"/>
+
 ### Tecnologies
 
-<img alt="Night Coding" src="https://github.com/irodrigo-42Mad/irodrigo-42Mad/blob/62cee74cd5ba293135ddaa518e9914896515eb2b/assets/Night-Coding.gif" align="right"/>
 ![ios](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![macos](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
